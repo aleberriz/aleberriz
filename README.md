@@ -25,9 +25,9 @@ I'm currently expanding my AI foundations and ML tooling after earning the **AWS
 ## 🔧 Tech Stack
 
 - **SQL:** Redshift, DuckDB
-- **Python:** Pandas, Plotly, statsmodels, scikit-learn
+- **Python:** Pandas, plotnine (ggplot), Plotly, statsmodels, scikit-learn
 - **Modeling:** MRR/ARR forecasting, churn modeling, attribution heuristics
-- **BI/Visualization:** Omni, Count, Mode, Metabase
+- **BI/Visualization:** Omni, Count, Mode, Tableau, Preset, Metabase, Amazon Quick Sight.
 - **AI:** AWS Bedrock
 
 ---
