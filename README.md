@@ -50,10 +50,10 @@ I'm currently expanding my AI foundations and ML tooling after earning the **AWS
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🏆 Vespa Velutina Competition](https://github.com/IEwaspbusters/KopuruVespaCompetitionIE) | IE Business School data science competition — award-winning team effort in invasive species prediction | Python, ML, Pandas |
-| [📊 SumUp Product Analytics](https://github.com/aleberriz/sumup_productdata_test) | Product Data Analyst take-home: SQL, dbt, BigQuery, EDA, stakeholder presentation | SQL, dbt, BigQuery |
-| [🤖 GenAI Model Comparison](https://github.com/aleberriz/compare-gen-ai-outputs) | Tooling to compare and evaluate outputs across multiple LLM providers | Python, OpenAI |
-| [🔍 Projet Cousteau](https://github.com/aleberriz/projetCousteau) | Freelance EDA engagement for IMA Groupe (insurance/assistance domain) | Python, Pandas |
+| [Vespa Velutina Competition](https://github.com/IEwaspbusters/KopuruVespaCompetitionIE) | IE Business School data science competition — award-winning team effort in invasive species prediction | Python, ML, Pandas |
+| [SumUp Product Analytics](https://github.com/aleberriz/sumup_productdata_test) | Product Data Analyst take-home: SQL, dbt, BigQuery, EDA, stakeholder presentation | SQL, dbt, BigQuery |
+| [GenAI Model Comparison](https://github.com/aleberriz/compare-gen-ai-outputs) | Tooling to compare and evaluate outputs across multiple LLM providers | Python, OpenAI |
+| [Projet Cousteau](https://github.com/aleberriz/projetCousteau) | Freelance EDA engagement for IMA Groupe (insurance/assistance domain) | Python, Pandas |
 
 ---
 
