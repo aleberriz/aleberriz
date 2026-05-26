@@ -1,34 +1,35 @@
 # Alejandro Berrizbeitia
 
-**Senior Data & Analytics Professional | Revenue Analytics • Forecasting • Attribution • AI Foundations (AWS Certified)**
+**Decision Scientist | Building Forecasting, Experimentation, and AI-Assisted Decision Systems**
 
-I'm a Senior Data Analyst focused on
-
+I'm focused on:
 - Revenue & ARR/MRR forecasting
 - Marketing & signup attribution
 - Subscription lifecycle analytics
-- Semantic-layer modeling (dbt/Omni)
-- Redshift performance-aware SQL
-- Python analytics & simulation workflows
+- Causal analysis
 
-I'm currently expanding my AI foundations and ML tooling after earning the **AWS Certified AI Practitioner (AIF-C01)** certification and working towards the **AWS Certified Generative AI Developer – Professional (AIP-C01)**.
+I am familiar with:
+- Semantic-layer modeling (mart on dbt/surface in Omni topics)
+- Redshift performance-aware SQL
+- AWS cloud environment including S3, Sagemaker, Bedrock
 
 ### 📫 Reach me
 
-- Email: **aleberriz@proton.me**
+- Email: **aleberriz@pm.me**
 - LinkedIn: https://linkedin.com/in/berriz
-- X: @narrativus
-- Website: https://narrativus.io
+- X: @alejandroberriz
+- Website: https://aleberriz.com
 
 ---
 
 ## 🔧 Tech Stack
 
 - **SQL:** Redshift, DuckDB
-- **Python:** Pandas, plotnine (ggplot), Plotly, statsmodels, scikit-learn
-- **Modeling:** MRR/ARR forecasting, churn modeling, attribution heuristics
-- **BI/Visualization:** Omni, Count, Mode, Tableau, Preset, Metabase, Amazon Quick Sight.
+- **Python:** scikit-learn, statsmodels, Pandas, plotnine (ggplot), Plotly (uv for dependencies)
+- **Modeling:** MRR forecasting, attribution heuristics
+- **BI/Visualization:** Omni, Count, Mode, Preset (Apache Superset), Metabase, Tableau, Quick Sight.
 - **AI:** AWS Bedrock
+- **Tooling:** Pi (pi.dev), VS Codium, DBeaver, Podman, Fedora OS
 
 ---
 
@@ -40,7 +41,6 @@ I'm currently expanding my AI foundations and ML tooling after earning the **AWS
 
 - **AWS Certified AI Practitioner (AIF-C01)**
   - Validate at: https://aws.amazon.com/verification; Verification code: `d6caf1808e55484eb84ac24ce254d101`
-- **AWS Certified Generative AI Developer – Professional (AIP-C01)** *(in progress)*
 - BetterWorks OKR Master
 - Data Storytelling & Visualization (The Economist)
 
@@ -55,17 +55,11 @@ I'm currently expanding my AI foundations and ML tooling after earning the **AWS
 | [GenAI Model Comparison](https://github.com/aleberriz/compare-gen-ai-outputs) | Tooling to compare and evaluate outputs across multiple LLM providers | Python, OpenAI |
 | [Projet Cousteau](https://github.com/aleberriz/projetCousteau) | Freelance EDA engagement for IMA Groupe (insurance/assistance domain) | Python, Pandas |
 
----
-
-## 🧭 What I'm Learning Now
-
-- dbt best practices for semantic modeling
-- Attribution heuristics vs causal inference
-- AI-assisted analytics development (Cursor, Opencode)
 
 ---
 
-## 🧩 Fun Facts
+## About me
 
 - Trilingual (EN/ES/FR)
 - I enjoy building analytic frameworks that turn complexity into clarity
+- I teach Time Series and Forecasting at IE University
