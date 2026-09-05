@@ -1,22 +1,31 @@
 # Alejandro Berrizbeitia
 
-**Decision Scientist | Forecasting, Experimentation, and AI-Assisted Decision Systems**
+**Decision Scientist | Semantic Layer Governance, Gen AI Evals, and Forecasting**
 
-Nineteen years across finance, operations and data, and a forecast to defend in almost every one of
-them — rolling forecasts and budgets at Philip Morris International and Colgate-Palmolive, and now
-subscription revenue at [Kit](https://kit.com), where I build the MRR and ARR forecast on contract
-with the Data team.
+I build the layer a business self-serves through, and I defend what the numbers in it mean. On
+contract with the central data team at [Kit](https://kit.com), that means co-owning our codebase —
+semantic layer and dbt marts, shipped as reviewed PRs — and holding one definition per metric
+against every request to fork it.
+
+The building is the easy half. The hard half is arbitrating between two teams who each want the
+metric measured their own way, and evals on Gen AI output, because a stakeholder cannot tell a right
+answer from a confident wrong one and the model will hand them either.
+
+Before that, nineteen years across finance, operations and data with a forecast to defend in almost
+every one of them: rolling forecasts and budgets at Philip Morris International and
+Colgate-Palmolive, now MRR and ARR at Kit.
 
 Since September 2026 I also teach the subject, as Adjunct Professor of Time Series Analysis and
 Forecasting at IE University.
 
 **Working on**
 
+- Semantic layer governance — topic scoping, metric definitions, and the AI context an LLM needs
+  before it can be trusted to query a model
+- Single source of truth as a practice, not a slogan: one definition, one owner, one place to change it
+- Evals on Gen AI analytical output: right topic, right joins, right filters, right grain
 - Revenue and ARR/MRR forecasting, and the targets that hang off it
-- Pricing and packaging impact, sized before the decision
-- Marketing and signup attribution, subscription lifecycle analytics, causal analysis
-- Semantic-layer governance for AI-assisted self-service — what a topic must say about itself
-  before an LLM can be trusted to query it
+- A/B test design, and the predictive work that has no other home on the team
 
 ---
 
@@ -44,8 +53,9 @@ before calling the function that does them.
 - **R:** tidyverts — tsibble, feasts, fable — and the tidyverse
 - **Transformation:** dbt
 - **Modeling:** time series forecasting (ETS, ARIMA), MRR forecasting, attribution heuristics
+- **Semantic layer:** Omni topics, dbt marts, metric definitions, AI context fields
 - **BI:** Omni, Count, Mode, Preset (Apache Superset), Metabase, Tableau, QuickSight
-- **AI:** AWS Bedrock, semantic-layer design for LLM consumption
+- **AI:** AWS Bedrock, eval harnesses for analytical LLM output
 - **Tooling:** VS Codium, DBeaver, Podman, Fedora
 
 ---
