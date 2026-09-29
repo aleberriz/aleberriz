@@ -1,6 +1,6 @@
 # Alejandro Berrizbeitia
 
-**Decision Scientist | Semantic Layer Governance, Gen AI Evals, and Forecasting**
+**Decision Scientist | Forecasting, Experimentation & Evals for AI-Assisted Decision Systems | Time Series & Forecasting Professor**
 
 I build the layer a business self-serves through, and I defend what the numbers in it mean. On
 contract with the central data team at [Kit](https://kit.com), that means co-owning our codebase —
